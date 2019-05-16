@@ -1,0 +1,19 @@
+C:\Users\JWatso25\Desktop\3 start\HW3\HW3\obj\Debug\HW3.csprojResolveAssemblyReference.cache
+C:\Users\JWatso25\Desktop\3 start\HW3\HW3\bin\Debug\HW3.exe.config
+C:\Users\JWatso25\Desktop\3 start\HW3\HW3\bin\Debug\HW3.exe
+C:\Users\JWatso25\Desktop\3 start\HW3\HW3\bin\Debug\HW3.pdb
+C:\Users\JWatso25\Desktop\3 start\HW3\HW3\obj\Debug\HW3.exe
+C:\Users\JWatso25\Desktop\3 start\HW3\HW3\obj\Debug\HW3.pdb
+C:\Users\JWatso25\Desktop\Assignment 3\HW3\HW3\bin\Debug\HW3.exe.config
+C:\Users\JWatso25\Desktop\Assignment 3\HW3\HW3\bin\Debug\HW3.exe
+C:\Users\JWatso25\Desktop\Assignment 3\HW3\HW3\bin\Debug\HW3.pdb
+C:\Users\JWatso25\Desktop\Assignment 3\HW3\HW3\obj\Debug\HW3.csprojResolveAssemblyReference.cache
+C:\Users\JWatso25\Desktop\Assignment 3\HW3\HW3\obj\Debug\HW3.exe
+C:\Users\JWatso25\Desktop\Assignment 3\HW3\HW3\obj\Debug\HW3.pdb
+C:\Users\jwatson\Desktop 2\Assignment 3\HW3\HW3\bin\Debug\HW3.exe.config
+C:\Users\jwatson\Desktop 2\Assignment 3\HW3\HW3\bin\Debug\HW3.exe
+C:\Users\jwatson\Desktop 2\Assignment 3\HW3\HW3\bin\Debug\HW3.pdb
+C:\Users\jwatson\Desktop 2\Assignment 3\HW3\HW3\obj\Debug\HW3.csprojAssemblyReference.cache
+C:\Users\jwatson\Desktop 2\Assignment 3\HW3\HW3\obj\Debug\HW3.csproj.CoreCompileInputs.cache
+C:\Users\jwatson\Desktop 2\Assignment 3\HW3\HW3\obj\Debug\HW3.exe
+C:\Users\jwatson\Desktop 2\Assignment 3\HW3\HW3\obj\Debug\HW3.pdb

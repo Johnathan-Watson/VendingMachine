@@ -1,0 +1,38 @@
+﻿<Window x:Class="HW3_GUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HW3_GUI"
+        mc:Ignorable="d"
+        Title="Vending Machine" Height="370.082" Width="579.508">
+    <Grid>
+        <Button x:Name="btnDepositQuarter" Content="Deposit Quarter" HorizontalAlignment="Left" Margin="161,231,0,0" VerticalAlignment="Top" Width="120" Click="btnDepositQuarter_Click"/>
+        <Button x:Name="btnVend" Content="VEND" HorizontalAlignment="Left" Margin="295,231,0,0" VerticalAlignment="Top" Width="120" Click="btnVend_Click"/>
+
+        <Image HorizontalAlignment="Left" Height="55" Margin="34,52,0,0" VerticalAlignment="Top" Width="109" Source="images/twix.png"/>
+        <Image HorizontalAlignment="Left" Height="75" Margin="163,16,0,0" VerticalAlignment="Top" Width="119" Source="images/snickers.png" Stretch="UniformToFill"/>
+        <Image HorizontalAlignment="Left" Height="101" Margin="307,28,0,0" VerticalAlignment="Top" Width="100" Source="images/kitkat.png"/>
+        <Image HorizontalAlignment="Left" Height="109" Margin="427,23,0,0" VerticalAlignment="Top" Width="113" Source="images/crunch.png"/>
+
+        <RadioButton Content="$0.75" HorizontalAlignment="Left" Margin="61,125,0,0" VerticalAlignment="Top" Name="radTwix" GroupName="Candy" Checked="radTwix_Checked"/>
+        <RadioButton Content="$1.00" HorizontalAlignment="Left" Margin="198,125,0,0" VerticalAlignment="Top" Name="radSnickers" GroupName="Candy" Checked="radSnickers_Checked"/>
+        <RadioButton Content="$1.25" HorizontalAlignment="Left" Margin="330,125,0,0" VerticalAlignment="Top" Name="radKitKat" GroupName="Candy" Checked="radKitKat_Checked"/>
+        <RadioButton Content="$1.50" HorizontalAlignment="Left" Margin="464,125,0,0" VerticalAlignment="Top" Name="radCrunch" GroupName="Candy" Checked="radCrunch_Checked"/>
+
+        <Label Name="lblBarsVended" Content="Bars Vended:" HorizontalAlignment="Left" Margin="304,264,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.107,-0.237"/>
+        <Label Name="lblBarsRemaining" Content="Bars Remaining:" HorizontalAlignment="Left" Margin="21,155,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.107,-0.237" Width="120"/>
+        <Label x:Name="lblCollected" Content="$0.00" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="203,264,0,0" Width="62" />
+        <Label x:Name="lblBarsVended1" Content="0" HorizontalAlignment="Left" Margin="388,264,0,0" VerticalAlignment="Top" Width="41"/>
+        
+        <TextBox Name="txtTwix" HorizontalAlignment="Left" Height="23" Margin="26,186,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextAlignment="Center"/>
+        <TextBox Name="txtSnickers" HorizontalAlignment="Left" Height="23" Margin="161,186,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextAlignment="Center"/>
+        <TextBox Name="txtKitKat" HorizontalAlignment="Left" Height="23" Margin="295,186,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextAlignment="Center"/>
+        <TextBox Name="txtCrunch" HorizontalAlignment="Left" Height="23" Margin="425,186,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextAlignment="Center"/>
+
+
+
+
+
+    </Grid>
+</Window>

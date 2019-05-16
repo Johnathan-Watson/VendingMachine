@@ -1,0 +1,88 @@
+C:\Users\JWatso25\Desktop\Assignment 3 start\HW3 GUI\obj\Debug\HW3 GUI.csprojResolveAssemblyReference.cache
+C:\Users\JWatso25\Desktop\Assignment 3 start\HW3 GUI\obj\Debug\MainWindow.g.cs
+C:\Users\JWatso25\Desktop\Assignment 3 start\HW3 GUI\obj\Debug\App.g.cs
+C:\Users\JWatso25\Desktop\Assignment 3 start\HW3 GUI\obj\Debug\HW3 GUI_MarkupCompile.cache
+C:\Users\JWatso25\Desktop\Assignment 3 start\HW3 GUI\obj\Debug\HW3 GUI_MarkupCompile.lref
+C:\Users\JWatso25\Desktop\Assignment 3 start\HW3 GUI\bin\Debug\HW3 GUI.exe.config
+C:\Users\JWatso25\Desktop\Assignment 3 start\HW3 GUI\bin\Debug\HW3 GUI.exe
+C:\Users\JWatso25\Desktop\Assignment 3 start\HW3 GUI\bin\Debug\HW3 GUI.pdb
+C:\Users\JWatso25\Desktop\Assignment 3 start\HW3 GUI\obj\Debug\MainWindow.baml
+C:\Users\JWatso25\Desktop\Assignment 3 start\HW3 GUI\obj\Debug\HW3 GUI.g.resources
+C:\Users\JWatso25\Desktop\Assignment 3 start\HW3 GUI\obj\Debug\HW3_GUI.Properties.Resources.resources
+C:\Users\JWatso25\Desktop\Assignment 3 start\HW3 GUI\obj\Debug\HW3 GUI.csproj.GenerateResource.Cache
+C:\Users\JWatso25\Desktop\Assignment 3 start\HW3 GUI\obj\Debug\HW3 GUI.exe
+C:\Users\JWatso25\Desktop\Assignment 3 start\HW3 GUI\obj\Debug\HW3 GUI.pdb
+C:\Users\Johnathan Watson\Desktop\Assignment 3 start\HW3 GUI\bin\Debug\HW3 GUI.exe.config
+C:\Users\Johnathan Watson\Desktop\Assignment 3 start\HW3 GUI\bin\Debug\HW3 GUI.exe
+C:\Users\Johnathan Watson\Desktop\Assignment 3 start\HW3 GUI\bin\Debug\HW3 GUI.pdb
+C:\Users\Johnathan Watson\Desktop\Assignment 3 start\HW3 GUI\obj\Debug\HW3 GUI.csprojResolveAssemblyReference.cache
+C:\Users\Johnathan Watson\Desktop\Assignment 3 start\HW3 GUI\obj\Debug\MainWindow.g.cs
+C:\Users\Johnathan Watson\Desktop\Assignment 3 start\HW3 GUI\obj\Debug\App.g.cs
+C:\Users\Johnathan Watson\Desktop\Assignment 3 start\HW3 GUI\obj\Debug\HW3 GUI_MarkupCompile.cache
+C:\Users\Johnathan Watson\Desktop\Assignment 3 start\HW3 GUI\obj\Debug\HW3 GUI_MarkupCompile.lref
+C:\Users\Johnathan Watson\Desktop\Assignment 3 start\HW3 GUI\obj\Debug\MainWindow.baml
+C:\Users\Johnathan Watson\Desktop\Assignment 3 start\HW3 GUI\obj\Debug\HW3 GUI.g.resources
+C:\Users\Johnathan Watson\Desktop\Assignment 3 start\HW3 GUI\obj\Debug\HW3_GUI.Properties.Resources.resources
+C:\Users\Johnathan Watson\Desktop\Assignment 3 start\HW3 GUI\obj\Debug\HW3 GUI.csproj.GenerateResource.cache
+C:\Users\Johnathan Watson\Desktop\Assignment 3 start\HW3 GUI\obj\Debug\HW3 GUI.csproj.CoreCompileInputs.cache
+C:\Users\Johnathan Watson\Desktop\Assignment 3 start\HW3 GUI\obj\Debug\HW3 GUI.exe
+C:\Users\Johnathan Watson\Desktop\Assignment 3 start\HW3 GUI\obj\Debug\HW3 GUI.pdb
+C:\Users\Johnathan Watson\Desktop\3 start\HW3 GUI\bin\Debug\HW3 GUI.exe.config
+C:\Users\Johnathan Watson\Desktop\3 start\HW3 GUI\bin\Debug\HW3 GUI.exe
+C:\Users\Johnathan Watson\Desktop\3 start\HW3 GUI\bin\Debug\HW3 GUI.pdb
+C:\Users\Johnathan Watson\Desktop\3 start\HW3 GUI\obj\Debug\HW3 GUI.csprojResolveAssemblyReference.cache
+C:\Users\Johnathan Watson\Desktop\3 start\HW3 GUI\obj\Debug\MainWindow.g.cs
+C:\Users\Johnathan Watson\Desktop\3 start\HW3 GUI\obj\Debug\App.g.cs
+C:\Users\Johnathan Watson\Desktop\3 start\HW3 GUI\obj\Debug\HW3 GUI_MarkupCompile.cache
+C:\Users\Johnathan Watson\Desktop\3 start\HW3 GUI\obj\Debug\HW3 GUI_MarkupCompile.lref
+C:\Users\Johnathan Watson\Desktop\3 start\HW3 GUI\obj\Debug\MainWindow.baml
+C:\Users\Johnathan Watson\Desktop\3 start\HW3 GUI\obj\Debug\HW3 GUI.g.resources
+C:\Users\Johnathan Watson\Desktop\3 start\HW3 GUI\obj\Debug\HW3_GUI.Properties.Resources.resources
+C:\Users\Johnathan Watson\Desktop\3 start\HW3 GUI\obj\Debug\HW3 GUI.csproj.GenerateResource.cache
+C:\Users\Johnathan Watson\Desktop\3 start\HW3 GUI\obj\Debug\HW3 GUI.csproj.CoreCompileInputs.cache
+C:\Users\Johnathan Watson\Desktop\3 start\HW3 GUI\obj\Debug\HW3 GUI.exe
+C:\Users\Johnathan Watson\Desktop\3 start\HW3 GUI\obj\Debug\HW3 GUI.pdb
+C:\Users\Johnathan Watson\Google Drive\IT 330\Projects\3 start\HW3 GUI\bin\Debug\HW3 GUI.exe.config
+C:\Users\Johnathan Watson\Google Drive\IT 330\Projects\3 start\HW3 GUI\bin\Debug\HW3 GUI.exe
+C:\Users\Johnathan Watson\Google Drive\IT 330\Projects\3 start\HW3 GUI\bin\Debug\HW3 GUI.pdb
+C:\Users\Johnathan Watson\Google Drive\IT 330\Projects\3 start\HW3 GUI\obj\Debug\HW3 GUI.csprojResolveAssemblyReference.cache
+C:\Users\Johnathan Watson\Google Drive\IT 330\Projects\3 start\HW3 GUI\obj\Debug\MainWindow.g.cs
+C:\Users\Johnathan Watson\Google Drive\IT 330\Projects\3 start\HW3 GUI\obj\Debug\App.g.cs
+C:\Users\Johnathan Watson\Google Drive\IT 330\Projects\3 start\HW3 GUI\obj\Debug\HW3 GUI_MarkupCompile.cache
+C:\Users\Johnathan Watson\Google Drive\IT 330\Projects\3 start\HW3 GUI\obj\Debug\HW3 GUI_MarkupCompile.lref
+C:\Users\Johnathan Watson\Google Drive\IT 330\Projects\3 start\HW3 GUI\obj\Debug\MainWindow.baml
+C:\Users\Johnathan Watson\Google Drive\IT 330\Projects\3 start\HW3 GUI\obj\Debug\HW3 GUI.g.resources
+C:\Users\Johnathan Watson\Google Drive\IT 330\Projects\3 start\HW3 GUI\obj\Debug\HW3_GUI.Properties.Resources.resources
+C:\Users\Johnathan Watson\Google Drive\IT 330\Projects\3 start\HW3 GUI\obj\Debug\HW3 GUI.csproj.GenerateResource.cache
+C:\Users\Johnathan Watson\Google Drive\IT 330\Projects\3 start\HW3 GUI\obj\Debug\HW3 GUI.csproj.CoreCompileInputs.cache
+C:\Users\Johnathan Watson\Google Drive\IT 330\Projects\3 start\HW3 GUI\obj\Debug\HW3 GUI.exe
+C:\Users\Johnathan Watson\Google Drive\IT 330\Projects\3 start\HW3 GUI\obj\Debug\HW3 GUI.pdb
+C:\Users\JWatso25\Desktop\3 start\HW3 GUI\bin\Debug\HW3 GUI.exe.config
+C:\Users\JWatso25\Desktop\3 start\HW3 GUI\bin\Debug\HW3 GUI.exe
+C:\Users\JWatso25\Desktop\3 start\HW3 GUI\bin\Debug\HW3 GUI.pdb
+C:\Users\JWatso25\Desktop\3 start\HW3 GUI\obj\Debug\HW3 GUI.csprojResolveAssemblyReference.cache
+C:\Users\JWatso25\Desktop\3 start\HW3 GUI\obj\Debug\MainWindow.g.cs
+C:\Users\JWatso25\Desktop\3 start\HW3 GUI\obj\Debug\App.g.cs
+C:\Users\JWatso25\Desktop\3 start\HW3 GUI\obj\Debug\HW3 GUI_MarkupCompile.cache
+C:\Users\JWatso25\Desktop\3 start\HW3 GUI\obj\Debug\HW3 GUI_MarkupCompile.lref
+C:\Users\JWatso25\Desktop\3 start\HW3 GUI\obj\Debug\MainWindow.baml
+C:\Users\JWatso25\Desktop\3 start\HW3 GUI\obj\Debug\HW3 GUI.g.resources
+C:\Users\JWatso25\Desktop\3 start\HW3 GUI\obj\Debug\HW3_GUI.Properties.Resources.resources
+C:\Users\JWatso25\Desktop\3 start\HW3 GUI\obj\Debug\HW3 GUI.csproj.GenerateResource.Cache
+C:\Users\JWatso25\Desktop\3 start\HW3 GUI\obj\Debug\HW3 GUI.exe
+C:\Users\JWatso25\Desktop\3 start\HW3 GUI\obj\Debug\HW3 GUI.pdb
+C:\Users\jwatson\Desktop 2\Assignment 3\HW3 GUI\bin\Debug\HW3 GUI.exe.config
+C:\Users\jwatson\Desktop 2\Assignment 3\HW3 GUI\bin\Debug\HW3 GUI.exe
+C:\Users\jwatson\Desktop 2\Assignment 3\HW3 GUI\bin\Debug\HW3 GUI.pdb
+C:\Users\jwatson\Desktop 2\Assignment 3\HW3 GUI\obj\Debug\HW3 GUI.csprojAssemblyReference.cache
+C:\Users\jwatson\Desktop 2\Assignment 3\HW3 GUI\obj\Debug\MainWindow.g.cs
+C:\Users\jwatson\Desktop 2\Assignment 3\HW3 GUI\obj\Debug\App.g.cs
+C:\Users\jwatson\Desktop 2\Assignment 3\HW3 GUI\obj\Debug\HW3 GUI_MarkupCompile.cache
+C:\Users\jwatson\Desktop 2\Assignment 3\HW3 GUI\obj\Debug\HW3 GUI_MarkupCompile.lref
+C:\Users\jwatson\Desktop 2\Assignment 3\HW3 GUI\obj\Debug\MainWindow.baml
+C:\Users\jwatson\Desktop 2\Assignment 3\HW3 GUI\obj\Debug\HW3 GUI.g.resources
+C:\Users\jwatson\Desktop 2\Assignment 3\HW3 GUI\obj\Debug\HW3_GUI.Properties.Resources.resources
+C:\Users\jwatson\Desktop 2\Assignment 3\HW3 GUI\obj\Debug\HW3 GUI.csproj.GenerateResource.cache
+C:\Users\jwatson\Desktop 2\Assignment 3\HW3 GUI\obj\Debug\HW3 GUI.csproj.CoreCompileInputs.cache
+C:\Users\jwatson\Desktop 2\Assignment 3\HW3 GUI\obj\Debug\HW3 GUI.exe
+C:\Users\jwatson\Desktop 2\Assignment 3\HW3 GUI\obj\Debug\HW3 GUI.pdb
